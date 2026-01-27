@@ -1,25 +1,25 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=00FFB3&center=true&vCenter=true&width=900&lines=%F0%9F%95%B6%EF%B8%8F+Daniel+Isaac+E+%7C+Offensive+Security+Mindset;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Student+%7C+Adversary+Thinking;%F0%9F%94%8D+Recon+%E2%86%92+Initial+Access+%E2%86%92+Persistence+%E2%86%92+Detection;%F0%9F%9A%80+Writing+Cybersecurity+Stories+on+Medium+Daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=00FFB3&center=true&vCenter=true&width=900&lines=%F0%9F%95%B6%EF%B8%8F+Daniel+Isaac+E+%7C+Cybersecurity+Researcher;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+Mindset+%7C+Adversary+Thinking;%F0%9F%94%8D+Recon+%E2%86%92+Initial+Access+%E2%86%92+Persistence+%E2%86%92+Detection;%F0%9F%9A%80+Writing+Cybersecurity+Stories+on+Medium" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniel-Isaac-E&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Daniel-Isaac-E?label=Followers&style=for-the-badge&color=00ffb3" />
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-black?style=for-the-badge&logo=hackthebox&logoColor=green" />
+  <img src="https://komarev.com/ghpvc/?username=Daniel-Isaac-E&label=Profile%20Views&color=00ffb3&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Daniel-Isaac-E?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-black?style=for-the-badge&logo=hackthebox&logoColor=00ffb3" />
 </p>
 
 ---
 
 ## 🦾 About Me (Quick Recon 🕵️‍♂️)
 
-💀 **Cybersecurity Engineering Student** + Offensive-security focused researcher.  
-I love thinking like an attacker so systems don’t fail in real life.
+💀 Cybersecurity Engineering Student + Offensive-security focused researcher  
+I like breaking assumptions before attackers break systems.
 
-- 🔭 Currently building: **SSH Brute Force Honeypot + Detection System**
-- 🧠 Interests: **OSINT | Recon | Red Team Mindset | Threat Analysis**
-- ⚡ Learning: **SOC workflows + adversary behavior + detection evasion**
-- ✍️ Writing: Medium cybersecurity series (Beginner → Pro)
+- 🔭 Building: **SSH Brute Force Honeypot + Detection System**
+- 🧠 Interests: **OSINT | Recon | Threat Intel | Red Team Thinking**
+- ⚡ Learning: **SOC workflows | Detection Engineering | Adversary Behavior**
+- ✍️ Writing: Medium series (Beginner → Pro)
 
 ---
 
@@ -32,11 +32,17 @@ I love thinking like an attacker so systems don’t fail in real life.
   <a href="https://www.linkedin.com/in/daniel-isaac-e/">
     <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Isaac%20E-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:daniel_isaac@zohomail.in">
-    <img src="https://img.shields.io/badge/Email-ZohoMail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://x.com/Daniel_Isaac_E">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-@Daniel__Isaac__E-000000?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://infosec.exchange/@daniel_e">
+    <img src="https://img.shields.io/badge/Infosec.Exchange-@daniel__e-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
   </a>
   <a href="https://danielisaace.medium.com/">
     <img src="https://img.shields.io/badge/Medium-Daniel%20Isaac%20E-black?style=for-the-badge&logo=medium" />
+  </a>
+  <a href="mailto:daniel_isaac@zohomail.in">
+    <img src="https://img.shields.io/badge/Email-ZohoMail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -45,7 +51,7 @@ I love thinking like an attacker so systems don’t fail in real life.
 ## 🧠 Tech Arsenal (Weapons Equipped)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,mysql,sqlite,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,sqlite,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -65,7 +71,6 @@ I love thinking like an attacker so systems don’t fail in real life.
 ██║     ██║  ██║██║ ╚████║██║███████╗██║
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝
 
-🔒 Threat Level: Active (⚡)
-🕵️ Recon Mode: ON
-🛡️ Defensive Strategy: Logging + Detection + Hardening
-🚀 Target: Become a complete Security Researcher
+🔒 Mission: Build → Break → Detect → Harden
+🕵️ Mode: Recon + Adversary Simulation
+⚡ Goal: Become a complete Security Researcher
