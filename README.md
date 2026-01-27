@@ -1,77 +1,120 @@
-<!-- =======================================================
-     ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
-     ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
-     ██║  ██║███████║██╔██╗ ██║██║█████╗  ██║
-     ██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║
-     ██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗
-     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
-     Daniel Isaac E | Cybersecurity | Offensive Mindset
-     ======================================================= -->
+<!-- =========================
+     DANIEL ISAAC E - RED TEAM HUD
+     ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=DANIEL%20ISAAC%20E&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Adversary%20Thinking&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=62&color=0:0b0f19,100:000000" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=DANIEL%20ISAAC%20E&fontSize=55&color=0:000000,100:7a0000&stroke=ff0000&strokeWidth=2&animation=fadeIn" />
+</p>
+
+<!-- EAGLE / CINEMATIC INTRO -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="520"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=650&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Threat+Model...;Recon+%E2%86%92+Initial+Access+%E2%86%92+Persistence+%E2%86%92+Impact;Living+Off+The+Land+(LOTL)+is+my+favorite+nightmare;Detection+Engineering+%7C+Threat+Hunting+%7C+OSINT;Building+skills+that+actually+work+in+real+world" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=BOOTING+RED+TEAM+HUD...;SYSTEM+CHECK%3A+ONLINE;OPERATOR%3A+DANIEL+ISAAC+E;MODE%3A+OFFENSIVE+SECURITY;TARGET%3A+REAL-WORLD+ATTACK+PATHS" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="520" />
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="700"/>
 </p>
 
 ---
 
-🧿 Control Panel (Quick Access)
-<p align="center"> <a href="https://github.com/Daniel-Isaac-E"> <img src="https://img.shields.io/badge/GitHub-Daniel--Isaac--E-0b0f19?style=for-the-badge&logo=github&logoColor=00f7ff" /> </a> <a href="https://www.linkedin.com/in/daniel-isaac-e/"> <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Isaac%20E-0b0f19?style=for-the-badge&logo=linkedin&logoColor=00f7ff" /> </a> <a href="https://x.com/Daniel_Isaac_E"> <img src="https://img.shields.io/badge/X-@Daniel__Isaac__E-0b0f19?style=for-the-badge&logo=x&logoColor=00f7ff" /> </a> <a href="https://infosec.exchange/@daniel_e"> <img src="https://img.shields.io/badge/Infosec.Exchange-@daniel__e-0b0f19?style=for-the-badge&logo=mastodon&logoColor=00f7ff" /> </a> <a href="https://danielisaace.medium.com/"> <img src="https://img.shields.io/badge/Medium-Daniel%20Isaac%20E-0b0f19?style=for-the-badge&logo=medium&logoColor=00f7ff" /> </a> <a href="mailto:daniel_isaac@zohomail.in"> <img src="https://img.shields.io/badge/Email-ZohoMail-0b0f19?style=for-the-badge&logo=gmail&logoColor=00f7ff" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/Daniel-Isaac-E">
+    <img src="https://img.shields.io/badge/GITHUB%20OPS-ONLINE-000000?style=for-the-b latest&logo=github&logoColor=ff0000&labelColor=000000"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-isaac-e/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000&labelColor=000000"/>
+  </a>
+  <a href="https://x.com/Daniel_Isaac_E">
+    <img src="https://img.shields.io/badge/X-@DANIEL__ISAAC__E-000000?style=for-the-badge&logo=x&logoColor=ff0000&labelColor=000000"/>
+  </a>
+  <a href="https://infosec.exchange/@daniel_e">
+    <img src="https://img.shields.io/badge/INFOSEC.EXCHANGE-@DANIEL__E-000000?style=for-the-badge&logo=mastodon&logoColor=ff0000&labelColor=000000"/>
+  </a>
+  <a href="https://danielisaace.medium.com/">
+    <img src="https://img.shields.io/badge/MEDIUM-ARTICLES-000000?style=for-the-badge&logo=medium&logoColor=ff0000&labelColor=000000"/>
+  </a>
+</p>
 
-⚔️ Tech Stack (Weapons Online)
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,vscode,mysql,sqlite&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Nmap-0b0f19?style=for-the-badge&logo=probot&logoColor=00f7ff" /> <img src="https://img.shields.io/badge/Shodan-0b0f19?style=for-the-badge&logo=shodan&logoColor=00f7ff" /> <img src="https://img.shields.io/badge/Burp%20Suite-0b0f19?style=for-the-badge&logo=burpsuite&logoColor=00f7ff" /> <img src="https://img.shields.io/badge/Wireshark-0b0f19?style=for-the-badge&logo=wireshark&logoColor=00f7ff" /> <img src="https://img.shields.io/badge/Kali%20Linux-0b0f19?style=for-the-badge&logo=kalilinux&logoColor=00f7ff" /> </p>
+---
 
-📰 Latest Medium Drops (Pro Articles)
+<!-- HOLOGRAM CORE -->
+<p align="center">
+  <img src="https://media.giphy.com/media/8WJw9kAG3wonu/giphy.gif" width="680"/>
+</p>
 
-🧩 Persistence: The Quiet Phase That Wins Breaches
-➡️ https://danielisaace.medium.com/persistence-the-quiet-phase-that-wins-breaches-fbbe7357bd81
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=⚠%20OFFENSIVE%20SECURITY%20MODE%20ACTIVE%20⚠&fontSize=22&color=0:000000,100:4a0000&fontColor=ff2d2d" />
+</p>
 
-🧩 LOTL: When the attacker uses YOUR tools against you
-➡️ https://danielisaace.medium.com/living-off-the-land-lotl-when-the-attacker-uses-your-own-tools-against-you-6a2abde89d28
+---
 
-📡 Live GitHub Telemetry (Dynamic)
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-E&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0b0f19" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Isaac-E&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0b0f19" /> </p> <p align="center"> <img height="180" src="https://streak-stats.demolab.com?user=Daniel-Isaac-E&theme=tokyonight&hide_border=true&background=0b0f19&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> </p>
+## ⚔️ WEAPONS LOADOUT (LIVE)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,vscode,mysql,sqlite&theme=dark" />
+</p>
 
-🔥 Heatmap Overlay (Looks Like Cyber Telemetry)
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniel-Isaac-E&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel-Isaac-E&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daniel-Isaac-E&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniel-Isaac-E&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniel-Isaac-E&theme=tokyonight&utcOffset=5.5" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NMAP-ARMED-000000?style=for-the-badge&logo=probot&logoColor=ff0000" />
+  <img src="https://img.shields.io/badge/SHODAN-SCANNING-000000?style=for-the-badge&logo=shodan&logoColor=ff0000" />
+  <img src="https://img.shields.io/badge/BURP-SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=ff0000" />
+  <img src="https://img.shields.io/badge/WIRESHARK-PACKET%20VISION-000000?style=for-the-badge&logo=wireshark&logoColor=ff0000" />
+</p>
 
-🧪 Threat Model Mindset
-+ Attackers win in silence.
-+ Persistence is where breaches become disasters.
-+ LOTL is stealth because it looks like normal admin work.
-! Your tools can become their weapons if detection is weak.
+---
 
-🗡️ Current Mission (Live Terminal)
-$ whoami
-daniel_isaac_e
+<!-- GLITCH SEPARATOR -->
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
+</p>
 
-$ mission --today
-[+] build projects recruiters respect
-[+] write like a researcher
-[+] learn attacker tradecraft deeply
-[+] convert knowledge → tools → proof
+## 📡 LIVE TELEMETRY (DYNAMIC)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-E&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" />
+</p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=OFFSEC%20ENGAGED%20%7C%20STAY%20SHARP&fontAlign=50&fontAlignY=50&color=0:000000,100:0b0f19" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Daniel-Isaac-E&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" /> </p> ```
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Daniel-Isaac-E&theme=highcontrast&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
+</p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Isaac-E&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff" />
+</p>
 
+---
 
-## 🧠 Operator Profile
-```yaml
-codename: Daniel Isaac E
-role: Cybersecurity Student / Researcher
-mindset: Offensive Security + Adversary Thinking
-focus:
-  - Persistence
-  - LOTL (Living Off The Land)
-  - Recon / OSINT
-  - Post-compromise detection ideas
-location: Kerala, India
-status: Building. Writing. Breaking. Fixing.
+<!-- RED TEAM HUD PANEL -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="720"/>
+</p>
 
+## 🧨 MEDIUM OPS (LIVE DROPS)
+<p align="center">
+  <a href="https://danielisaace.medium.com/persistence-the-quiet-phase-that-wins-breaches-fbbe7357bd81">
+    <img src="https://img.shields.io/badge/Persistence%20%E2%80%93%20Quiet%20Phase%20That%20Wins%20Breaches-READ-000000?style=for-the-badge&logo=medium&logoColor=ff0000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://danielisaace.medium.com/living-off-the-land-lotl-when-the-attacker-uses-your-own-tools-against-you-6a2abde89d28">
+    <img src="https://img.shields.io/badge/LOTL%20%E2%80%93%20Attacker%20Uses%20Your%20Tools-READ-000000?style=for-the-badge&logo=medium&logoColor=ff0000" />
+  </a>
+</p>
+
+---
+
+<!-- FINAL OUTRO -->
+<p align="center">
+  <img src="https://media.giphy.com/media/2zGdmxN7gxa2k/giphy.gif" width="650"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daniel-Isaac-E&label=PROFILE%20HITS&color=ff0000&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:7a0000&section=footer" />
+</p>
