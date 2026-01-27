@@ -59,6 +59,7 @@ I like breaking assumptions before attackers break systems.
 </p>
 
 ---
+![snake gif](https://raw.githubusercontent.com/Daniel-Isaac-E/Daniel-Isaac-E/output/github-contribution-grid-snake.svg)
 
 ## ⚔️ Current Mission (Live Status)
 
@@ -74,3 +75,4 @@ I like breaking assumptions before attackers break systems.
 🔒 Mission: Build → Break → Detect → Harden
 🕵️ Mode: Recon + Adversary Simulation
 ⚡ Goal: Become a complete Security Researcher
+
