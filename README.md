@@ -1,88 +1,96 @@
-<!-- PROFILE HEADER -->
+<!-- ===========================
+     ⚡ DANIEL ISAAC E - PROFILE
+     Zero-YML | Copy-Paste Only
+     =========================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=00FFB3&center=true&vCenter=true&width=900&lines=%F0%9F%95%B6%EF%B8%8F+Daniel+Isaac+E+%7C+Cybersecurity+Researcher;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+Mindset+%7C+Adversary+Thinking;%F0%9F%94%8D+Recon+%E2%86%92+Initial+Access+%E2%86%92+Persistence+%E2%86%92+Detection;%F0%9F%9A%80+Writing+Cybersecurity+Stories+on+Medium" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DANIEL%20ISAAC%20E&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20%7C%20Offensive%20Mindset%20%7C%20Adversary%20Thinking&descAlign=50&descAlignY=60&color=0:0F0C29,100:302B63" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniel-Isaac-E&label=Profile%20Views&color=00ffb3&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Daniel-Isaac-E?label=Followers&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-black?style=for-the-badge&logo=hackthebox&logoColor=00ffb3" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&center=true&vCenter=true&width=720&lines=Initializing+Offensive+Mindset...;Recon+%E2%86%92+Initial+Access+%E2%86%92+Persistence+%E2%86%92+Impact;LOTL+%7C+Detection+Engineering+%7C+Threat+Hunting;Cybersecurity+Student+%F0%9F%94%A5+Building+Real+World+Skills;Writeups+on+Medium+%E2%9C%8D%EF%B8%8F+Daily+Learning+Mode" />
 </p>
 
 ---
 
-## 🦾 About Me (Quick Recon 🕵️‍♂️)
-
-💀 Cybersecurity Engineering Student + Offensive-security focused researcher  
-I like breaking assumptions before attackers break systems.
-
-- 🔭 Building: **SSH Brute Force Honeypot + Detection System**
-- 🧠 Interests: **OSINT | Recon | Threat Intel | Red Team Thinking**
-- ⚡ Learning: **SOC workflows | Detection Engineering | Adversary Behavior**
-- ✍️ Writing: Medium series (Beginner → Pro)
+## 🧠 About Me (Quick Intel)
+- 🕵️‍♂️ **Cybersecurity Student** focused on **offensive security & adversary thinking**
+- 🧩 I like the “quiet parts” attackers use: **persistence, lateral movement, LOTL**
+- 📍 Based in **Kerala, India**
+- ✍️ Writing on Medium: **https://danielisaace.medium.com/**
+- 💬 I post: detection ideas, attack chains, lessons, tools, mini research
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/Daniel-Isaac-E">
-    <img src="https://img.shields.io/badge/GitHub-Daniel--Isaac--E-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-isaac-e/">
-    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Isaac%20E-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/Daniel_Isaac_E">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-@Daniel__Isaac__E-000000?style=for-the-badge&logo=x" />
-  </a>
-  <a href="https://infosec.exchange/@daniel_e">
-    <img src="https://img.shields.io/badge/Infosec.Exchange-@daniel__e-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
-  <a href="https://danielisaace.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-Daniel%20Isaac%20E-black?style=for-the-badge&logo=medium" />
-  </a>
-  <a href="mailto:daniel_isaac@zohomail.in">
-    <img src="https://img.shields.io/badge/Email-ZohoMail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/Daniel-Isaac-E"><img src="https://img.shields.io/badge/GitHub-Daniel--Isaac--E-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-isaac-e/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Isaac%20E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Daniel_Isaac_E"><img src="https://img.shields.io/badge/X%20(Twitter)-@Daniel__Isaac__E-111111?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://infosec.exchange/@daniel_e"><img src="https://img.shields.io/badge/Infosec.Exchange-@daniel__e-7C3AED?style=for-the-badge&logo=mastodon&logoColor=white"></a>
+  <a href="https://danielisaace.medium.com/"><img src="https://img.shields.io/badge/Medium-Daniel%20Isaac%20E-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="mailto:daniel_isaac@zohomail.in"><img src="https://img.shields.io/badge/Email-ZohoMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧠 Tech Arsenal (Weapons Equipped)
-
+## ⚔️ Skill Loadout
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,sqlite,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,vscode,mysql,sqlite&perline=9" />
 </p>
 
+### 🧰 Security Tools I Use / Learn
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools-Nmap%20%7C%20Shodan%20%7C%20Burp%20Suite%20%7C%20Wireshark-black?style=for-the-badge&logo=protonvpn&logoColor=00ffb3" />
+  <img src="https://img.shields.io/badge/Nmap-0B1221?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shodan-0B1221?style=for-the-badge&logo=shodan&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-0B1221?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-0B1221?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-0B1221?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Isaac-E/Daniel-Isaac-E/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-Isaac-E/Daniel-Isaac-E/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Daniel-Isaac-E/Daniel-Isaac-E/output/github-contribution-grid-snake.svg" />
-</picture>
+## 🚀 What I’m Building (Real Projects)
+✅ **SSH Honeypot + Brute-force telemetry**
+- capturing attacker behavior
+- logging auth attempts + patterns
+- building detection logic on top
 
+✅ **IoT Vulnerability Scanner**
+- Nmap scanning + Shodan enrichment
+- device fingerprinting basics
 
+✅ **Threat Intel / Learning Notes**
+- attack chain breakdowns
+- “why detections fail” insights
+- practical writeups
 
+---
 
+## 📌 Latest Medium Articles (Hand-picked)
+📌 Persistence: The Quiet Phase That Wins Breaches  
+👉 https://danielisaace.medium.com/persistence-the-quiet-phase-that-wins-breaches-fbbe7357bd81
 
-## ⚔️ Current Mission (Live Status)
+📌 Living Off The Land (LOTL) — When attacker uses YOUR tools  
+👉 https://danielisaace.medium.com/living-off-the-land-lotl-when-the-attacker-uses-your-own-tools-against-you-6a2abde89d28
 
+---
+
+## 📊 GitHub Stats (Dynamic + Clean)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-E&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Isaac-E&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=Daniel-Isaac-E&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛰️ Live Status
 ```txt
-> Initializing Offensive Mindset...
-██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
-██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
-██████╔╝███████║██╔██╗ ██║██║█████╗  ██║
-██╔═══╝ ██╔══██║██║╚██╗██║██║██╔══╝  ██║
-██║     ██║  ██║██║ ╚████║██║███████╗██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝
-
-🔒 Mission: Build → Break → Detect → Harden
-🕵️ Mode: Recon + Adversary Simulation
-⚡ Goal: Become a complete Security Researcher
-
+[+] Mode: Learning + Building
+[+] Focus: Offensive security + detection mindset
+[+] Current Objective: Make projects + writeups recruiters can’t ignore
+[+] Threat Level: Rising 📈
