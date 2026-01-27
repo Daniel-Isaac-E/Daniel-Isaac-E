@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: HoneyPoT using SSH Brute Force 
 - 🚀 Skills: Cybersecurity | Ethical Hacking | Java | Python | Nmap | Shodan
 - 🎯 Interests: OSINT | Penetration Testing | AI in Security
-- 📡 Connect with me: [GitHub](https://github.com/Daniel-Isaac-E) | [LinkedIn](https://www.linkedin.com/in/daniel4956/) | [Email](daniel_isaac@zohomail.in)
+- 📡 Connect with me: [GitHub](https://github.com/Daniel-Isaac-E) | [LinkedIn](https://www.linkedin.com/in/daniel-isaac-e/) | [Email](daniel_isaac@zohomail.in)
 ```
 ---
 
@@ -45,9 +45,9 @@
 ---
 
 
-![Daniel-Isaac-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-10&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Isaac-10&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Isaac-10&theme=radical)
+![Daniel-Isaac-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-E&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Isaac-E&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Isaac-E&theme=radical)
 
 ---
 
