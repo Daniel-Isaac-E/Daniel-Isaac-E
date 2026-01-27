@@ -59,7 +59,11 @@ I like breaking assumptions before attackers break systems.
 </p>
 
 ---
-![snake gif](https://raw.githubusercontent.com/Daniel-Isaac-E/Daniel-Isaac-E/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Isaac-E/Daniel-Isaac-E/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Daniel-Isaac-E/Daniel-Isaac-E/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## ⚔️ Current Mission (Live Status)
 
