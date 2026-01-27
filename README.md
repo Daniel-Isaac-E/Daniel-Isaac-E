@@ -1,63 +1,71 @@
-### **🦾 DANIEL ISAAC - CyberSec Enthusiast & Developer 🕵️‍♂️**
-```yaml
-- 🔭 I’m currently working on: HoneyPoT using SSH Brute Force 
-- 🚀 Skills: Cybersecurity | Ethical Hacking | Java | Python | Nmap | Shodan
-- 🎯 Interests: OSINT | Penetration Testing | AI in Security
-- 📡 Connect with me: [GitHub](https://github.com/Daniel-Isaac-E) | [LinkedIn](https://www.linkedin.com/in/daniel-isaac-e/) | [Email](daniel_isaac@zohomail.in)
-```
----
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=00FFB3&center=true&vCenter=true&width=900&lines=%F0%9F%95%B6%EF%B8%8F+Daniel+Isaac+E+%7C+Offensive+Security+Mindset;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Student+%7C+Adversary+Thinking;%F0%9F%94%8D+Recon+%E2%86%92+Initial+Access+%E2%86%92+Persistence+%E2%86%92+Detection;%F0%9F%9A%80+Writing+Cybersecurity+Stories+on+Medium+Daily" />
+</p>
 
-  
-![Hacker Animation](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=00FF00&center=true&vCenter=true&lines=Booting+up+system...;Bypassing+firewall...;Access+granted!;Executing+payload...;Scanning+network...;Threat+neutralized!+🔓)
-
-
-```bash
-> Initializing...
-██████╗ ███████╗██╗  ██╗████████╗███████╗██████╗     ██╗  ██╗███████╗
-██╔══██╗██╔════╝██║  ██║╚══██╔══╝██╔════╝██╔══██╗    ██║  ██║██╔════╝
-██║  ██║█████╗  ███████║   ██║   █████╗  ██████╔╝    ███████║█████╗  
-██║  ██║██╔══╝  ██╔══██║   ██║   ██╔══╝  ██╔═══╝     ██╔══██║██╔══╝  
-██████╔╝███████╗██║  ██║   ██║   ███████╗██║         ██║  ██║███████╗
-╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝         ╚═╝  ╚═╝╚══════╝
-```
-🔒 **Current Mission:** _Scanning for vulnerabilities..._  
-🕵️‍♂️ **Threat Level:** _Minimal (⚡)_
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daniel-Isaac-E&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Daniel-Isaac-E?label=Followers&style=for-the-badge&color=00ffb3" />
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-black?style=for-the-badge&logo=hackthebox&logoColor=green" />
+</p>
 
 ---
 
+## 🦾 About Me (Quick Recon 🕵️‍♂️)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=nmap&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+💀 **Cybersecurity Engineering Student** + Offensive-security focused researcher.  
+I love thinking like an attacker so systems don’t fail in real life.
 
----
-
-
-🚀 **IoT Vulnerability Scanner** - _Automated threat detection using Nmap & Shodan_  
-📸 **Image Obfuscation System** - _Advanced encryption & OTP-based decryption_  
-🛡️ **Cyber Threat Intelligence Tool** - _Real-time monitoring and automated alerts_
+- 🔭 Currently building: **SSH Brute Force Honeypot + Detection System**
+- 🧠 Interests: **OSINT | Recon | Red Team Mindset | Threat Analysis**
+- ⚡ Learning: **SOC workflows + adversary behavior + detection evasion**
+- ✍️ Writing: Medium cybersecurity series (Beginner → Pro)
 
 ---
 
+## 🌐 Connect With Me
 
-![Daniel-Isaac-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-E&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Isaac-E&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Isaac-E&theme=radical)
+<p align="center">
+  <a href="https://github.com/Daniel-Isaac-E">
+    <img src="https://img.shields.io/badge/GitHub-Daniel--Isaac--E-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-isaac-e/">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Isaac%20E-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:daniel_isaac@zohomail.in">
+    <img src="https://img.shields.io/badge/Email-ZohoMail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://danielisaace.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Daniel%20Isaac%20E-black?style=for-the-badge&logo=medium" />
+  </a>
+</p>
 
 ---
 
+## 🧠 Tech Arsenal (Weapons Equipped)
 
-![Hacker Matrix](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,mysql,sqlite,html,css,js,git,github,vscode" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Nmap%20%7C%20Shodan%20%7C%20Burp%20Suite%20%7C%20Wireshark-black?style=for-the-badge&logo=protonvpn&logoColor=00ffb3" />
+</p>
 
-```diff
-- H4ck Th3 Pl4n3t
-+ Ex3cut1ng C0d3...
-! CyberSec Engaged!
-```
+---
 
+## ⚔️ Current Mission (Live Status)
+
+```txt
+> Initializing Offensive Mindset...
+██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
+██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
+██████╔╝███████║██╔██╗ ██║██║█████╗  ██║
+██╔═══╝ ██╔══██║██║╚██╗██║██║██╔══╝  ██║
+██║     ██║  ██║██║ ╚████║██║███████╗██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝
+
+🔒 Threat Level: Active (⚡)
+🕵️ Recon Mode: ON
+🛡️ Defensive Strategy: Logging + Detection + Hardening
+🚀 Target: Become a complete Security Researcher
